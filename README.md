@@ -194,5 +194,4 @@ For any additional questions or comments, you can reach out to [Kazuki Mori](mai
 
 <br/>
 
-> **_NOTE:_** Please make sure to follow all recommended practices while sharing sensitive information such as email addresses. Always try to use official and secure communication channels.#   c o v i d 1 9 - s t a t i s t i c s - t r a c k e r  
- 
+> **_NOTE:_** Please make sure to follow all recommended practices while sharing sensitive information such as email addresses. Always try to use official and secure communication channels.
