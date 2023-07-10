@@ -1,0 +1,7 @@
+/* 
+These code in the /src/index.css file will enable TailwindCSS to swap these directives out at build-time
+with all of the styles it generates based on your configured design system. 
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

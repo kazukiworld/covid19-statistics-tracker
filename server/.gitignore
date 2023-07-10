@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Generated HTML, coverage, and profiling reports
+htmlcov/
+.coverage
+.prof
+
+# Package files
+*.egg
+*.egg-info/
+*.tar.gz
+*.whl
+
+# Dependencies
+!requirements.txt
+
+# Ignore environment specific files
+.env.local
+.env.development
+.env.production
+
+# Ignore generated static files
+/static/
+
+# Ignore generated media files
+/media/
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
